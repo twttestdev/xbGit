@@ -5,7 +5,9 @@ public class Imxb {
     public void version(){
         //感谢观看git教程是的学习
     }
-    public void cloudits(){
+    public void cloudits() {
+        //修正
         String cloudits;
         cloudits = "http://www.baidu.com";
+    }
 }
